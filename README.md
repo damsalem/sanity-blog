@@ -16,7 +16,7 @@ npm run start
 
 Open [http://localhost:3333](http://localhost:3333) with your browser to see the results
 
-## Learn More
+# Learn More
 
 - [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
 - [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
