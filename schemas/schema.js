@@ -70,11 +70,6 @@ export default createSchema({
                     layout: 'radio',
                     direction: 'horizontal',
                     isHighlighted: true
-                  },
-                  initialValue: {
-                    list: [
-                      {title: 'Center (Default)', value: 'center'}
-                    ]
                   }
                 },
                 {
